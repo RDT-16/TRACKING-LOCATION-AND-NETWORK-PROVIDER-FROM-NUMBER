@@ -49,4 +49,4 @@ The tracker takes an input phone number from `text.py` (with proper internationa
 ### 📸 Output Snapshots
 
 - **fig(a)** – Displays the result of phone number tracking.  
-  ![fig(a)](doc/fig(a).png)
+  ![fig(a)](/fig(a).png)
