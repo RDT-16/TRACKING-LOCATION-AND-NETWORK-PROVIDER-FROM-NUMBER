@@ -38,3 +38,15 @@ In this project, we focus on:
 
 ```python
 number = "+XXXXXXXXXXXX"  # Replace with a valid number
+```
+## 📊 Result
+
+The tracker takes an input phone number from `text.py` (with proper international format, e.g., `+91XXXXXXXXXX`) and produces the following outputs:
+
+1. **🌍 Location** – Country or region of the phone number.
+2. **📡 Network Provider** – Name of the telecom service provider.
+
+### 📸 Output Snapshots
+
+- Displays the detected country/location of the number.  
+  !(fig(a).png)
