@@ -48,5 +48,5 @@ The tracker takes an input phone number from `text.py` (with proper internationa
 
 ### 📸 Output Snapshots
 
-- Displays the detected country/location of the number.  
-  !(fig(a).png)
+- **fig(a)** – Displays the result of phone number tracking.  
+  ![fig(a)](doc/fig(a).png)
